@@ -1,0 +1,3 @@
+# This is the first chapter!
+hello world
+![This is a video test](resources/testvid.MOV)

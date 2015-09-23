@@ -1,3 +1,4 @@
 # This is the first chapter!
 hello world
 ![This is a video test](resources/testvid.MOV)
+![This is an image test](images/sailing.jpg)
